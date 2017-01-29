@@ -1,7 +1,9 @@
 # ShellSripting
 
 This script can monitor your linux MQ applications
+
 it'll alert to a slack channel when
+
 1. channel is inactive/retry/stopped
 2. space has crossed threshould on the server
 3. qdepth has crossed threshould 
