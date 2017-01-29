@@ -10,4 +10,4 @@ it'll alert to a slack channel when
 4. channel instances are high 
 5. Qm is inactive or starting
 
-Before making this script you've to create a integration to the slack channel
+Before making this script you've to create an integration to the slack channel
