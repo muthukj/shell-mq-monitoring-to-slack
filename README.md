@@ -1,4 +1,4 @@
-# ShellSripting
+# MQ Monitoring
 
 This script can monitor your linux MQ resources
 
